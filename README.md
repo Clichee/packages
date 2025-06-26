@@ -4,6 +4,6 @@ Hosting purpose
 
 ### SDK NuGet Diagrams
 
-![sdk_mermaid_1 drawio](https://github.com/user-attachments/assets/9aaab128-8e1c-4426-81d0-3b2fd88c4047)
-![sdk_mermaid_2 drawio](https://github.com/user-attachments/assets/8171c56e-f494-44b8-96b4-67602c846d4c)
-![sdk_mermaid_3 drawio](https://github.com/user-attachments/assets/836ebf7c-585c-46bd-9a4e-dc04e6c92843)
+![sdk_mermaid_3 drawio](https://github.com/user-attachments/assets/6fc2f5d7-9893-4a89-b580-3b703a7e73dc)
+![sdk_mermaid_2 drawio](https://github.com/user-attachments/assets/feb51011-6c3f-4f4e-a076-ac8a87fcf1de)
+![sdk_mermaid_1 drawio](https://github.com/user-attachments/assets/4c6aef51-65ad-4204-8966-0a790844cb91)
